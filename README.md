@@ -1,6 +1,6 @@
 # GuessWordApp
 
-GuessWordApp is a game like Hangman, where user can guess word. Pure vanilla JS-OOP game. 
+GuessWordApp is a game like Hangman, where user can guess word. Pure vanilla JS-OOP game. Webpack, Babel. 
 
 https://guess-the-word.netlify.com/  -- Netlifly link 
 
