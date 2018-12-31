@@ -2,6 +2,7 @@
 
 GuessWordApp is a game like Hangman, where user can guess word. Pure vanilla JS-OOP game. 
 
+https://guess-the-word.netlify.com/  -- Netlifly link 
 
 #Instalation
   
